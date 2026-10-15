@@ -3,7 +3,7 @@ Loader for CruelHub: asks for a key, then runs the right script for the game you
 
 > [!IMPORTANT]
 > ## 🔑 Skip the ads: get an AD-FREE key on our Discord
-> Join **[discord.gg/ZgKagUwagW](https://discord.gg/ZgKagUwagW)** to generate a key with no ad checkpoints.
+> Join **[discord.gg/ka8sqyajju](https://discord.gg/ka8sqyajju)** to generate a key with no ad checkpoints.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LeeDoesStuff/LuaLoader/main/loader.lua"))()
